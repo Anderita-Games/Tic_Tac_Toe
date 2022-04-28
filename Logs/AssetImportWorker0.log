@@ -191,3 +191,9 @@ Received Import Request.
   path: Assets/web_hi_res_512.png
   artifactKey: Guid(fbb92be4de3c3bc4eb11f8fda93fc627) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
 Start importing Assets/web_hi_res_512.png using Guid(fbb92be4de3c3bc4eb11f8fda93fc627) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5ad29af0a26d2dcb889dfb95d336b6d7') in 0.078619 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 39.069937 seconds.
+  path: Assets/Splash.png
+  artifactKey: Guid(4841752ed7676af4193c80dfb1b479a3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Splash.png using Guid(4841752ed7676af4193c80dfb1b479a3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd0f6d03e8c495cebd565f54795101f0c') in 0.028632 seconds 
